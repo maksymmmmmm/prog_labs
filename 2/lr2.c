@@ -33,7 +33,7 @@ int main() {
 	else {
 		printf("Не усі три числа рівні.\n");
 		if (a != b)
-			printf("a не до рівнює b.\n");
+			printf("a не дорівнює b.\n");
 		else
 			printf("a дорівнює b.\n");
 		if (b != c)
